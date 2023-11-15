@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M4nu3l4rturo
-- 👀 I’m interested in Programin in Python, Javascript, backend 
+- 👀 I’m interested in Programing in Python, Javascript and backend 
 - 🌱 I’m currently learning Python and SQL, also learning about IA and Machine learning
 - 💞️ I’m looking to collaborate on backend, Machine learnig, SQL, Financial crime realted fields and Monitoring trasaccions
 - 📫 How to reach me 
